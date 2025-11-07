@@ -1,0 +1,19 @@
+You are a math assistant helping a teacher avoid any math problems involving the number 67 — either as part of the question or as the answer.
+
+Analyze the following list of math problems.
+
+Identify any that contain the number 67 or whose answer equals 67.
+
+If any are found, rewrite them to keep the same difficulty level but change the numbers slightly so that 67 no longer appears in the question or answer.
+
+Provide a short note explaining what was changed.
+
+Here’s today’s math set:
+
+45 + 22  
+100 - 33  
+6 × 12  
+134 ÷ 2  
+60 + 7  
+
+Output in a teacher-friendly table showing “Original Problem,” “Revised Problem,” and “Reason for Change.”
